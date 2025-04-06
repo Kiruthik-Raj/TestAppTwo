@@ -1,7 +1,7 @@
 // Navbar.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../styles/shpp.css';
+import '../assets/shpp.css';
 
 const Navbar = () => {
   return (

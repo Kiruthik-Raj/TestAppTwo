@@ -1,6 +1,6 @@
 // FeaturedProducts.jsx
 import React from 'react';
-import '../styles/shpp.css';
+import '../assets/shpp.css';
 import { featuredProducts } from '../assets/mediaLinks';
 
 const FeaturedProducts = () => {

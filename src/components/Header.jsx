@@ -1,6 +1,6 @@
 // Header.jsx
 import React from 'react';
-import '../styles/shpp.css'; // Assuming your main stylesheet is named shpp.css and contains relevant styles
+import '../assets/shpp.css'; // Assuming your main stylesheet is named shpp.css and contains relevant styles
 
 const Header = () => {
   return (

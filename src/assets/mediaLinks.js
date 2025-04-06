@@ -20,6 +20,8 @@ const mediaLinks = {
   
 export default mediaLinks;
 
+export const instagramImages = mediaLinks.instagramImages;
+
 // mediaLinks.js
 export const heroImage = "https://example.com/image-url.jpg";
 

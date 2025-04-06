@@ -1,6 +1,6 @@
 // TipsPage.jsx
 import React from 'react';
-import '../styles/shpp.css';
+import '../assets/shpp.css';
 
 const TipsPage = () => {
   return (
